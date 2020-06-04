@@ -1,0 +1,15 @@
+# Project Variables
+
+PROJECT_NAME ?= GodBooks
+
+.PHONY: migrations db
+
+migrations:
+	cd ./eShop.Data && dotnet ef --startup-project ../eShop.Web/ migrations add $(mname) && cd ..
+
+db: 
+	cd ./eShop.Data && dotnet ef --startup-project ../eShop.Web/ database update && cd ..
+	
+hello:
+	echo 'hello'
+
