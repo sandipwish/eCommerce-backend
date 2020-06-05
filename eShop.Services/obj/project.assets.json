@@ -933,11 +933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj",
+      "projectUniqueName": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj",
       "projectName": "eShop.Services",
-      "projectPath": "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj",
+      "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj",
       "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\eShopCommerce\\eShop.Services\\obj\\",
+      "outputPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -956,8 +956,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj": {
-              "projectPath": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj"
+            "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj": {
+              "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj"
             }
           }
         }

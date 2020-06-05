@@ -10,3 +10,15 @@ C:\Work\eShopCommerce\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.pdb
 C:\Work\eShopCommerce\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Data.dll
 C:\Work\eShopCommerce\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Data.pdb
 C:\Work\eShopCommerce\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.csproj.CopyComplete
+C:\Work\git\eCommerce-backend\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Services.deps.json
+C:\Work\git\eCommerce-backend\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Services.dll
+C:\Work\git\eCommerce-backend\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Services.pdb
+C:\Work\git\eCommerce-backend\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Data.dll
+C:\Work\git\eCommerce-backend\eShop.Services\bin\Debug\netcoreapp3.1\eShop.Data.pdb
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.csprojAssemblyReference.cache
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.AssemblyInfoInputs.cache
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.AssemblyInfo.cs
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.csproj.CoreCompileInputs.cache
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.csproj.CopyComplete
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.dll
+C:\Work\git\eCommerce-backend\eShop.Services\obj\Debug\netcoreapp3.1\eShop.Services.pdb

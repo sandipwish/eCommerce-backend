@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj": {}
+    "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj": {
+    "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+        "projectUniqueName": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
         "projectName": "eShop.Data",
-        "projectPath": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+        "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
         "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\eShopCommerce\\eShop.Data\\obj\\",
+        "outputPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -915,11 +915,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+      "projectUniqueName": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
       "projectName": "eShop.Data",
-      "projectPath": "c:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+      "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
       "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-      "outputPath": "c:\\Work\\eShopCommerce\\eShop.Data\\obj\\",
+      "outputPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

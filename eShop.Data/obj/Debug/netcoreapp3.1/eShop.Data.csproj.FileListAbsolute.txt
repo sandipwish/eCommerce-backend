@@ -10,3 +10,15 @@ C:\Work\eShopCommerce\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.pdb
 C:\Work\eShopCommerce\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.json
 C:\Work\eShopCommerce\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.dev.json
 C:\Work\eShopCommerce\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.genruntimeconfig.cache
+C:\Work\git\eCommerce-backend\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.deps.json
+C:\Work\git\eCommerce-backend\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.json
+C:\Work\git\eCommerce-backend\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.runtimeconfig.dev.json
+C:\Work\git\eCommerce-backend\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.dll
+C:\Work\git\eCommerce-backend\eShop.Data\bin\Debug\netcoreapp3.1\eShop.Data.pdb
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csprojAssemblyReference.cache
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfoInputs.cache
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.AssemblyInfo.cs
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.csproj.CoreCompileInputs.cache
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.dll
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.pdb
+C:\Work\git\eCommerce-backend\eShop.Data\obj\Debug\netcoreapp3.1\eShop.Data.genruntimeconfig.cache

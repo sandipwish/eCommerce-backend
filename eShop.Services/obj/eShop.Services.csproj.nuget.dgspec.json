@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj": {}
+    "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj": {}
   },
   "projects": {
-    "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj": {
+    "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+        "projectUniqueName": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
         "projectName": "eShop.Data",
-        "projectPath": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj",
+        "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj",
         "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\eShopCommerce\\eShop.Data\\obj\\",
+        "outputPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj": {
+    "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj",
+        "projectUniqueName": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj",
         "projectName": "eShop.Services",
-        "projectPath": "C:\\Work\\eShopCommerce\\eShop.Services\\eShop.Services.csproj",
+        "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\eShop.Services.csproj",
         "packagesPath": "C:\\Users\\sandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\eShopCommerce\\eShop.Services\\obj\\",
+        "outputPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -105,8 +105,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj": {
-                "projectPath": "C:\\Work\\eShopCommerce\\eShop.Data\\eShop.Data.csproj"
+              "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj": {
+                "projectPath": "C:\\Work\\git\\eCommerce-backend\\eShop.Data\\eShop.Data.csproj"
               }
             }
           }

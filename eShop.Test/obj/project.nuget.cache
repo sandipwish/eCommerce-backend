@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E59ofxdWx0QX6ZFSnvpO/PVOnhWhBWBDd6OWQW6MnGVEn9SV6QwUsQLSdZTkjbrj2QKOv7wnXwjCriuqUYaOoA==",
+  "dgSpecHash": "aeMlon3ZO1le+KMZ18tWtcbRjcclYC5Q31R6bvxTpqMBgEe5lZo+RpigrZtjfcpc+behUDZB+p/cX7FI6Hg49Q==",
   "success": true,
-  "projectFilePath": "C:\\Work\\eShopCommerce\\eShop.Test\\eShop.Test.csproj",
+  "projectFilePath": "C:\\Work\\git\\eCommerce-backend\\eShop.Test\\eShop.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sandi\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\sandi\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

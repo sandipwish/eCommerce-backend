@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2hlQZLikjYBJidRzzbQA7lh0dhFcwMhe10wfInLlF+zZtMDRNr4gMS1v8V03H5jWFJEHLha4eGmuwlP+3LfjZQ==",
+  "dgSpecHash": "WNGI2seBARhGVK28Y1yvRXjXhQ9YgWPqmTHPLHfr+/txSpxOmKvOFtAIiDJs2u2W+2QTOVrpB0tuLC38EAi4TA==",
   "success": true,
-  "projectFilePath": "C:\\Work\\eShopCommerce\\eShop.Web\\eShop.Web.csproj",
+  "projectFilePath": "C:\\Work\\git\\eCommerce-backend\\eShop.Web\\eShop.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sandi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sandi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
